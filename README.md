@@ -1,2 +1,2 @@
-Names of contributors:
+Names of contributors : 
 Neo Mosala
