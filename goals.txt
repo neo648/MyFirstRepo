@@ -3,4 +3,4 @@ complete my alx se program successfully
 build at least two personal coding projects
 improve my problem solving and algorithm skills
 learn a new programming language 
-contribute to open source projects
+contribute to open source projects 
