@@ -1,0 +1,3 @@
+This repository is part of my learning journey in system engineering and DevOps.
+It contains practical exercises, scripts, and examples demonstrating environment variable handling,
+PATH management, and Git workflows.
