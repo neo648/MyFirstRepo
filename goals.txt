@@ -1,6 +1,7 @@
-My Personal and academic goals for next year
-complete my alx se program successfully
-build at least two personal coding projects
-improve my problem solving and algorithm skills
-learn a new programming language 
-contribute to open source projects 
+My Personal and Academic Goals for Next Year
+
+1. Improve my Git and GitHub skills.
+2. Build more coding projects.
+3. Learn advanced DevOps concepts.
+4. Collaborate with others on open-source.
+5. Stay consistent with my studies.
