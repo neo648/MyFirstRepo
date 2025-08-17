@@ -1,3 +1,2 @@
-This repository is part of my learning journey in system engineering and DevOps.
-It contains practical exercises, scripts, and examples demonstrating environment variable handling,
-PATH management, and Git workflows.
+Hello, my name is Neo Mosala (username: neo648). 
+This is my first GitHub repository where I am practicing Git and GitHub skills.

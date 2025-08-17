@@ -1,4 +1,3 @@
 # MyFirstRepo
-
-This repository contains exercises and scripts for learning system engineering and DevOps tasks,
-including shell scripts, environment variables, and Git workflows.
+This repository is for learning Git and GitHub basics. 
+It will contain practice scripts and files for my DevOps journey.
